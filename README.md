@@ -21,4 +21,4 @@
 <br>
 <h2>You can try it !</h2>
 <br>
-https://pierrerobeyns.github.io/input-animation/
+https://pierrerobeyns.github.io/ToDoList-JavaScript/
